@@ -1,11 +1,11 @@
 package:
   name: gpy
-  version: "1.0.9"
+  version: "1.2.1"
 
 source:
-  fn: GPy-1.0.9.tar.gz
-  url: https://pypi.python.org/packages/98/46/3f9f794efada276d4041863a966a50dcd5a205d181eff0f4d5a8d6ba905e/GPy-1.0.9.tar.gz
-  md5: 87a8db7dd24e808926908bb5b73f88ce
+  fn: GPy-1.2.1.tar.gz
+  url: https://pypi.python.org/packages/39/d4/d971da288b19e770863e992f8c89fd73ab274b8b140ccbe9ad9586ee0f74/GPy-1.2.1.tar.gz
+  md5: 88f93e18305d84ec31ecea4c3c474310
 #  patches:
    # List any patch files here
    # - fix.patch
